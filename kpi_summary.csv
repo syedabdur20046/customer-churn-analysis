@@ -1,0 +1,16 @@
+,value
+Total customers,210
+Churned customers,77
+Churn rate %,36.7
+Retention rate %,63.3
+ARPU (active),312.2
+Avg tenure (days),1596
+Total MRR,60940.0
+MRR lost to churn,19423.0
+% revenue loss,31.9
+CLTV lost,722599
+Revenue at risk (score>70),13189.0
+Avg complaints / customer,1.46
+Escalation rate %,30.3
+Monthly vs Annual churn %,51.2 vs 16.9
+Monthly/Annual multiple,3.0

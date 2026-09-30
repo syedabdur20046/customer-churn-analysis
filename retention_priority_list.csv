@@ -1,0 +1,76 @@
+customerid,state,plan_type,contract_type,churn_score,risk_tier,cltv,escalations
+1176,Karnataka,Premium,Monthly,78,High,55631.94,0.0
+1204,Karnataka,Premium,Monthly,43,Med,50415.55,0.0
+1160,Telangana,Premium,Monthly,44,Med,41477.82,0.0
+1132,Gujarat,Premium,Monthly,47,Med,39896.95,0.0
+1172,Delhi,Premium,Monthly,44,Med,39851.97,0.0
+1198,Telangana,Premium,Monthly,45,Med,39526.4,0.0
+1042,Telangana,Premium,Monthly,45,Med,39470.01,0.0
+1136,Karnataka,Premium,Monthly,55,Med,37447.4,0.0
+1025,Telangana,Premium,Monthly,45,Med,37303.83,0.0
+1149,Maharashtra,Standard,Monthly,41,Med,36310.72,0.0
+1195,Karnataka,Premium,Monthly,63,Med,34712.39,0.0
+1068,Maharashtra,Standard,Monthly,60,Med,33359.61,0.0
+1052,Karnataka,Premium,Monthly,50,Med,32924.07,0.0
+1069,Karnataka,Premium,Monthly,56,Med,27903.37,0.0
+1128,Karnataka,Standard,Monthly,60,Med,25115.26,0.0
+1089,Karnataka,Premium,Monthly,59,Med,23909.02,0.0
+1087,Tamil Nadu,Premium,Monthly,43,Med,22893.73,0.0
+1004,Tamil Nadu,Premium,Monthly,43,Med,21011.59,0.0
+1161,Karnataka,Premium,Monthly,64,Med,20871.47,0.0
+1090,Delhi,Standard,Monthly,49,Med,20278.78,0.0
+1096,Tamil Nadu,Standard,Monthly,50,Med,18892.41,0.0
+1115,Karnataka,Premium,Monthly,49,Med,18438.94,0.0
+1118,Tamil Nadu,Standard,Monthly,51,Med,18314.37,0.0
+1041,Maharashtra,Standard,Monthly,49,Med,18258.69,0.0
+1133,Delhi,Premium,Monthly,44,Med,17616.14,0.0
+1119,Maharashtra,Standard,Monthly,43,Med,17485.38,0.0
+1141,Delhi,Standard,Monthly,43,Med,16332.93,0.0
+1181,Telangana,Standard,Monthly,45,Med,16086.12,0.0
+1104,Gujarat,Basic,Annual,55,Med,15764.78,0.0
+1064,Telangana,Standard,Monthly,43,Med,15527.5,0.0
+1065,Tamil Nadu,Standard,Monthly,48,Med,15451.69,0.0
+1165,Delhi,Basic,Annual,55,Med,15143.2,0.0
+1102,Tamil Nadu,Basic,Monthly,66,Med,14278.31,0.0
+1048,Maharashtra,Basic,Annual,47,Med,14249.03,0.0
+1010,Delhi,Basic,Annual,42,Med,14205.41,0.0
+1140,Karnataka,Basic,Monthly,84,High,13969.61,0.0
+1050,Karnataka,Standard,Monthly,50,Med,13938.14,0.0
+1035,Delhi,Standard,Monthly,43,Med,13845.74,0.0
+1170,Gujarat,Standard,Monthly,47,Med,13797.91,0.0
+1194,Telangana,Basic,Annual,47,Med,13727.07,0.0
+1099,Karnataka,Basic,Monthly,87,High,13610.9,0.0
+1008,Telangana,Basic,Annual,42,Med,13303.9,0.0
+1103,Maharashtra,Basic,Monthly,64,Med,13302.89,0.0
+1082,Maharashtra,Basic,Annual,43,Med,12990.31,0.0
+1113,Maharashtra,Basic,Monthly,62,Med,12945.67,0.0
+1049,Tamil Nadu,Basic,Monthly,66,Med,12769.59,0.0
+1094,Maharashtra,Standard,Monthly,61,Med,12529.66,0.0
+1078,Tamil Nadu,Basic,Annual,42,Med,12130.95,0.0
+1066,Delhi,Basic,Monthly,48,Med,12043.84,0.0
+1092,Tamil Nadu,Basic,Annual,52,Med,12042.37,0.0
+1185,Telangana,Basic,Annual,54,Med,11973.62,0.0
+1039,Karnataka,Basic,Annual,68,Med,11814.43,0.0
+1011,Maharashtra,Basic,Annual,49,Med,11387.75,0.0
+1127,Maharashtra,Basic,Monthly,66,Med,11364.73,0.0
+1199,Karnataka,Basic,Monthly,73,High,11283.3,0.0
+1122,Tamil Nadu,Basic,Monthly,58,Med,10864.95,0.0
+1207,Karnataka,Basic,Annual,64,Med,10765.43,0.0
+1097,Maharashtra,Basic,Monthly,51,Med,10453.74,0.0
+1131,Karnataka,Basic,Monthly,73,High,10436.14,0.0
+1138,Delhi,Basic,Monthly,47,Med,10138.01,0.0
+1100,Gujarat,Basic,Annual,42,Med,10084.62,0.0
+1045,Telangana,Basic,Monthly,58,Med,9984.33,0.0
+1152,Telangana,Basic,Annual,43,Med,9704.98,0.0
+1015,Maharashtra,Basic,Monthly,64,Med,9092.65,0.0
+1058,Delhi,Basic,Annual,50,Med,8772.4,0.0
+1030,Tamil Nadu,Basic,Annual,45,Med,8299.09,0.0
+1072,Maharashtra,Basic,Annual,52,Med,8249.2,1.0
+1038,Delhi,Basic,Monthly,61,Med,7287.1,0.0
+1020,Tamil Nadu,Basic,Annual,52,Med,6734.35,0.0
+1166,Maharashtra,Basic,Annual,49,Med,6586.73,0.0
+1054,Tamil Nadu,Basic,Monthly,62,Med,6521.57,0.0
+1129,Karnataka,Basic,Annual,42,Med,6332.04,0.0
+1109,Karnataka,Basic,Annual,58,Med,5705.54,0.0
+1044,Maharashtra,Basic,Monthly,71,High,5433.15,0.0
+1197,Delhi,Basic,Annual,52,Med,5086.74,0.0
